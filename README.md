@@ -1,1 +1,2 @@
 # newGitTest
+izmena fajla opet
